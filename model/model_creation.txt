@@ -1,1 +1,1 @@
-visit the url to view model creation code: https://github.com/KaranPatel20/Sign-Language-Interpreter
+visit the url to view model creation code: https://github.com/KaranPatel20/Sign-Language-Interpreter/
